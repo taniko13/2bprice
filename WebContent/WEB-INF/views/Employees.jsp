@@ -14,13 +14,6 @@ h1 {text-align:center;}
 <body>
 <div><h1>Employees</h1></div>
 
-<h1>Customer list</h1>
-
-<ul>
-<c:forEach var="c" items="${employees}">
-    <li>${c.name} (<a href="editCustomer?id=${c.id}">Edit</a>)</li>
-</c:forEach>
-</ul>
 <% Map<String, Employee> employees = (Map<String, Employee>)request.getAttribute("employees");
  	if(employees != null){
     	for(Entry<String, Employee> entry : employees.entrySet())
