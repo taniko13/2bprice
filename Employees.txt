@@ -1,0 +1,4 @@
+c33b3145-0d67-4984-80da-4cb4a750cf5c, Yaakov, Cohen, employee
+d402890a-1fb3-4cc7-ae8b-565a4eb45f8a, Nick, Smith, employee
+345f3e12-f41b-41f4-937a-203f5c176a2e, Ofir, Or, manager
+6c2c8e24-a5d0-44a1-a912-9d5d9171cb65, Ohad, Levi, manager
